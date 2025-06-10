@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Desiana</h1>
 <h3 align="center">A enthusiastic backend & web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Go, PHP**
+- 💡 I'm currently working on "Seventeen's SNS Update Discord Bot"!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
